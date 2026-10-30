@@ -1,0 +1,2 @@
+Python developer with FastAPI and PostgreSQL experience.
+Built backend APIs and AI projects.
